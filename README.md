@@ -1,4 +1,4 @@
-# Arthur <img src="https://cdn.dribbble.com/userupload/21169188/file/original-10b40ee3b83a4a2f2803f7f8831075af.gif" width="75px">
+# Arthur <img src="https://cdn.dribbble.com/userupload/21169188/file/original-10b40ee3b83a4a2f2803f7f8831075af.gif" width="54px">
 
 Eu sou <strong>Arthur</strong>, <strong>sou um jovem de 19 anos</strong> 👨🏻‍💻 
 
