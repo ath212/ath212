@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre Mim:
 👨🏻‍💻Olá meu nome é Arthur, tenho 20 anos<br><br>🚀 Atualmente estou aprendendo: linguagem de programacão no Senac<br>💬 Pergunte-me sobre: músicas favoritas, games que jogo no tempo livre<br>📣 Nós podemos nos falar em: Português, um pouco em Inglês, e bem pouco em Espanhol<br>
 
 
